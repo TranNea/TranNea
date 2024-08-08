@@ -21,7 +21,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img alt="banner" style="width:100vw" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2FealoGJ&psig=AOvVaw2lRZtvE7yH0eWdIJUv3D8e&ust=1723207843405000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiH_My35YcDFQAAAAAdAAAAABAE">
+<img alt="banner" width=400 src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 <br><br>
 
 - 🔭 I’m currently looking for **internship**
