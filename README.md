@@ -21,7 +21,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
-<img alt="banner" width=400 src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
+<img alt="banner" style="width:100vw" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 <br><br>
 
 - 🔭 I’m currently looking for **internship**
