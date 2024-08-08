@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoai Nhan</h1>
-<h3 align="center">I'm a thỉd-year student</h3>
+<h3 align="center">I'm a third-year Information Technology student</h3>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=TranNea" alt="tran nea" /> 
 </p>
@@ -24,6 +24,7 @@
 <img alt="banner" style="width:100vw" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 <br><br>
 
+- 🌱 I'm currently studying at **Ho Chi Minh Open University**
 - 🔭 I’m currently looking for **internship**
 - 📫 How to reach me **2151050296nhan@ou.edu.vn**
 
