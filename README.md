@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hoai Nhan</h1>
-<h3 align="center">I'm a third-year Information Technology student</h3>
+<h3 align="center">I'm a 4th-year Information Technology student</h3>
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=TranNea" alt="tran nea" /> 
 </p>
