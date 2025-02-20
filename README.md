@@ -25,8 +25,8 @@
 <br><br>
 
 - 🌱 I'm currently studying at **Ho Chi Minh Open University**
-- 🔭 I’m currently looking for **internship**
-- 📫 How to reach me **2151050296nhan@ou.edu.vn**
+- 🔭 I’m currently looking for **fresher tester (manual/auto)**
+- 📫 How to reach me **hoainhan318@gmail.com**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
