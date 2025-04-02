@@ -34,7 +34,15 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,cs,cpp,js,html,css,react&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,cs,cpp,js,html,css&theme=light" />
+  </a>
+</p>
+
+<h3 align="left">Frameworks:</h3>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,dotnet,react,selenium&theme=light" />
   </a>
 </p>
 
@@ -54,7 +62,7 @@
   </a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Others:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,postman&theme=light" />
