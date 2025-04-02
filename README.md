@@ -67,7 +67,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,postman&theme=light" />
   </a>
- <img alt="jira-icon" width="256" height="256" src="https://cdn.iconscout.com/icon/free/png-512/free-jira-icon-download-in-svg-png-gif-file-formats--logo-social-media-pack-logos-icons-1912014.png?f=webp&w=512">
+ <img alt="jira-icon" width="50" height="50" src="https://cdn.iconscout.com/icon/free/png-512/free-jira-icon-download-in-svg-png-gif-file-formats--logo-social-media-pack-logos-icons-1912014.png?f=webp&w=512">
 </p>
 
 <br/>
