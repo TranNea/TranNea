@@ -24,7 +24,6 @@
 <img alt="banner" style="width:100vw" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 <br><br>
 
-- 🌱 I'm currently studying at **Ho Chi Minh Open University**
 - 🔭 I’m currently looking for **fresher tester (manual/auto)**
 - 📫 How to reach me **hoainhan318@gmail.com**
 
